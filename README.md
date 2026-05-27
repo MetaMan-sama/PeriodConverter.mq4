@@ -1,0 +1,1 @@
+# PeriodConverter.mq4
